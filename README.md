@@ -3,7 +3,6 @@
 
 # README — data-visualization-analysis
 
-```markdown
 # Exploratory Data Analysis & Visualization
 
 ## Overview
